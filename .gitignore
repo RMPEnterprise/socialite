@@ -4,3 +4,5 @@ composer.lock
 phpunit.xml
 .DS_Store
 Thumbs.db
+*.sublime-project
+*.sublime-workspace
